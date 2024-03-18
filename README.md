@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ronit-Banerjee-78
 - 👀 I’m interested in ...WEB DEVELOPMENT
-- 🌱 I’m currently learning ... COMPUTER SCIENCE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Full Stack Development
+- 💞️ I’m looking to collaborate on ... MERN Stack Projects 
 - 📫 How to reach me ...
 - INSTA:- @ig_ronit_78
 
