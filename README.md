@@ -32,8 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://twitter.com/ronitbanerjee78" target="_blank">
-     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
-     " target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -55,7 +54,7 @@
 <div align="center">
   <h2> My Contributions</h2>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-banerjee-78&" alt="ronit-banerjee-78" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=Ronit-Banerjee-78" alt="ronit-banerjee-78" /></p>
 
   <br/><br/><br/>
 </div>
