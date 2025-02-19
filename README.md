@@ -54,7 +54,7 @@
 <div align="center">
   <h2> My Contributions</h2>
   <br>
-  <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronit-Banerjee-78&theme=dracula" alt="ronit-banerjee-78" /></p>
+  <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronit-Banerjee-78&theme=react" alt="ronit-banerjee-78" /></p>
 
   <br/><br/><br/>
 </div>
