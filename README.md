@@ -54,7 +54,7 @@
 <div align="center">
   <h2> My Contributions</h2>
   <br>
-  <p><img align="center" src="https://streak-stats.demolab.com/?user=Ronit-Banerjee-78" alt="ronit-banerjee-78" /></p>
+  <p><img align="center" src="https://github.com/users/Ronit-Banerjee-78/contributions" alt="ronit-banerjee-78" /></p>
 
   <br/><br/><br/>
 </div>
